@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://michaelanokye:kentegroupportfoliopass@michaelportfolio.ffral.mongodb.net/shorty?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
